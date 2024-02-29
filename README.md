@@ -29,11 +29,11 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 
 ## 📝 Índice
 
-- [Sobre](#sobre)
+- [Sobre](#-informações-do-projeto)
 - [Começando](#começando)
-  - [Pré-requisitos](#pré-requisitos)
-- [Código de Conduta](#código-de-conduta)
-- [Autores](#autores)
+  - [Pré-requisitos](#-informações-do-projeto)
+- [Código de Conduta](#-código-de-conduta)
+- [Autores](#%EF%B8%8F-autores)
 
 
 
