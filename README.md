@@ -4,36 +4,44 @@
 ![Status do Projeto](https://img.shields.io/badge/status-active-success.svg)
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
-> Uma linha descrevendo de forma concisa o que seu projeto faz.
+> Informações do Projeto.
 
-Uma descrição mais longa e detalhada do seu projeto. Explique o que ele faz, por que foi criado, e qualquer outro detalhe relevante que ajude os usuários e contribuidores a entender o propósito do seu projeto.
+Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilitar e otimizar o processo de criação de mapas dentro do universo do San Andreas Multiplayer (SA-MP). Ao reconhecer a complexidade e o detalhamento envolvidos na construção de mapas personalizados, percebemos a necessidade de uma solução centralizada que pudesse servir tanto a novatos quanto a veteranos na comunidade de mapeamento.
+
+**Objetivos Principais:**
+
+- **Centralização de Recursos:** Prover um único ponto de acesso para uma vasta gama de recursos necessários para a criação de mapas, como IDs de objetos, texturas disponíveis, e uma biblioteca de comandos úteis.
+- **Facilitar o Acesso à Informação:** Simplificar o processo de busca por informações específicas, economizando tempo e energia para os criadores de mapas, que, de outra forma, teriam que procurar em múltiplos locais ou manter suas próprias listas de recursos.
+- **Promover a Criatividade e Inovação:** Ao disponibilizar uma ampla variedade de recursos de maneira organizada, encorajamos os usuários a explorar novas ideias e conceitos em seus projetos de mapeamento, empurrando os limites da criatividade dentro do SA-MP.
+
+**Funcionalidades:**
+
+- **Biblioteca Abrangente:** Contém uma extensa coleção de IDs de objetos, categorizada por tipos e usos, facilitando aos usuários encontrar o objeto perfeito para qualquer situação.
+- **Guia de Texturas:** Oferece uma visão detalhada das texturas disponíveis, permitindo aos criadores de mapas escolher com precisão as texturas que melhor se adaptam ao ambiente que desejam criar.
+- **Repositório de Comandos:** Uma compilação de comandos úteis no SA-MP, incluindo descrições e exemplos de uso, projetada para auxiliar tanto os iniciantes quanto os usuários avançados.
+
+**Por Que Foi Criado:**
+
+A inspiração para este projeto nasceu da própria comunidade de mapeadores do SA-MP, que frequentemente enfrentava desafios ao tentar localizar recursos dispersos e informações fragmentadas. Ao consolidar esses recursos em uma plataforma intuitiva e de fácil acesso, nosso objetivo é não apenas melhorar a eficiência do processo de criação de mapas, mas também incentivar mais pessoas a participarem dessa atividade criativa, enriquecendo assim a comunidade SA-MP com novos e excitantes mapas.
+
 
 ![Imagem/Screenshot do Projeto](caminho_para_imagem.png)
 
 ## 📝 Índice
 
-- [Sobre](#commands)
+- [Sobre](#sobre)
 - [Começando](#começando)
   - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
-- [Uso](#uso)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Contribuir](#como-contribuir)
-  - [Código de Conduta](#código-de-conduta)
-  - [Processo de Pull Request](#processo-de-pull-request)
+- [Código de Conduta](#código-de-conduta)
 - [Autores](#autores)
-- [Licença](#licença)
-- [Agradecimentos](#agradecimentos)
 
 
 
 
-### Pré-requisitos
 
-Aqui está o texto formatado em Markdown:
+
 
 ---
-
 ## Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor
 
 >Para garantir que tudo funcione corretamente, siga estes passos:
