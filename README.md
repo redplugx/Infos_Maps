@@ -35,6 +35,8 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 
 ![Imagem/Screenshot do Projeto](https://static9.tgcnt.ru/posts/_0/ee/ee108ea0ba0e8e02a03899a621caf640.jpg)
 
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 ---
 ## 🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor
 
