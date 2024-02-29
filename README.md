@@ -12,7 +12,7 @@ Uma descrição mais longa e detalhada do seu projeto. Explique o que ele faz, p
 
 ## 📝 Índice
 
-- [Sobre](#sobre)
+- [Sobre](#commands)
 - [Começando](#começando)
   - [Pré-requisitos](#pré-requisitos)
   - [Instalação](#instalação)
