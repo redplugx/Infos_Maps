@@ -4,7 +4,7 @@
 ![Status do Projeto](https://img.shields.io/badge/status-active-success.svg)
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
-> Informações do Projeto.
+## > Informações do Projeto.
 
 Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilitar e otimizar o processo de criação de mapas dentro do universo do San Andreas Multiplayer (SA-MP). Ao reconhecer a complexidade e o detalhamento envolvidos na construção de mapas personalizados, percebemos a necessidade de uma solução centralizada que pudesse servir tanto a novatos quanto a veteranos na comunidade de mapeamento.
 
