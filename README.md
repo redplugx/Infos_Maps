@@ -90,7 +90,7 @@ Lembre-se de seguir todas as orientações legais e de licenciamento ao usar sof
 <details>
 <summary><b>Clique para expandir/recolher a seção</b></summary>
 
-
+---
 <details>
 <summary><b>Texture Studio</b></summary>
 
