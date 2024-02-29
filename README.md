@@ -14,7 +14,7 @@
 ---
 
 
-<details open>
+<details>
 <summary><b>🌎 Informações do Projeto.</b></summary>
 
 \
@@ -38,7 +38,7 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 </details>
 
 ---
-<details open>
+<details>
 <summary><b>🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor</b></summary>
 
 >Para garantir que tudo funcione corretamente, siga estes passos:
