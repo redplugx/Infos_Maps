@@ -90,7 +90,7 @@ Lembre-se de seguir todas as orientações legais e de licenciamento ao usar sof
 <details>
 <summary><b>Clique para expandir/recolher a seção</b></summary>
 
----
+
 <details>
 <summary><b>Texture Studio</b></summary>
 
@@ -100,7 +100,7 @@ Lembre-se de seguir todas as orientações legais e de licenciamento ao usar sof
 
 </details>
 
----
+
 <details>
 <summary><b>IDS</b></summary>
 
@@ -133,7 +133,7 @@ oi
 </details>
 </details>
 
----
+
 <details>
 <summary><b>TEXTO 3</b></summary>
 
