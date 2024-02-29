@@ -1,3 +1,10 @@
+
+
+
+
+
+
+---
 # Infos Maps - by redplugx 🔌
 
 ![Versão do Projeto](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
@@ -76,19 +83,62 @@ Lembre-se de seguir todas as orientações legais e de licenciamento ao usar sof
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/redplugx)
 
 ---
+
+
 ### Mapper
 
 <details>
 <summary><b>Clique para expandir/recolher a seção</b></summary>
 
+---
 <details>
 <summary><b>Texture Studio</b></summary>
 
-
+## Wikipedia
 
 [Wiki - Texture Studio](https://github.com/Crayder/Texture-Studio/wiki)
 
+</details>
 
+---
+<details>
+<summary><b>IDS</b></summary>
+
+___
+
+<details><summary><b>OBJECTS</b></summary><summary>
+
+#### Objetos
+</details>
+
+<details><summary><b>root</b></summary><summary>
+
+<details><summary><b>root</b></summary><summary>
+oi
+</details>
+
+<details><summary><b>root</b></summary><summary>
+oi
+</details>
+
+<details><summary><b>root</b></summary><summary>
+oi
+</details>
+
+<details><summary><b>root</b></summary><summary>
+oi
+</details>
 
 
 </details>
+</details>
+
+---
+<details>
+<summary><b>TEXTO 3</b></summary>
+
+###### texto
+</details>
+
+
+
