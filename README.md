@@ -12,8 +12,12 @@
 - [Código de Conduta](#-código-de-conduta)
 - [Autores](#%EF%B8%8F-autores)
 ---
-## 🌎 Informações do Projeto.
 
+
+<details open>
+<summary><b>🌎 Informações do Projeto.</b></summary>
+
+\
 Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilitar e otimizar o processo de criação de mapas dentro do universo do San Andreas Multiplayer (SA-MP). Ao reconhecer a complexidade e o detalhamento envolvidos na construção de mapas personalizados, percebemos a necessidade de uma solução centralizada que pudesse servir tanto a novatos quanto a veteranos na comunidade de mapeamento.
 
 **Objetivos Principais:**
@@ -31,9 +35,11 @@ Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilit
 **Por Que Foi Criado:**
 
 A inspiração para este projeto nasceu da própria comunidade de mapeadores do SA-MP, que frequentemente enfrentava desafios ao tentar localizar recursos dispersos e informações fragmentadas. Ao consolidar esses recursos em uma plataforma intuitiva e de fácil acesso, nosso objetivo é não apenas melhorar a eficiência do processo de criação de mapas, mas também incentivar mais pessoas a participarem dessa atividade criativa, enriquecendo assim a comunidade SA-MP com novos e excitantes mapas.
+</details>
 
 ---
-## 🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor
+<details open>
+<summary><b>🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor</b></summary>
 
 >Para garantir que tudo funcione corretamente, siga estes passos:
 
@@ -58,16 +64,9 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 
 Lembre-se de seguir todas as orientações legais e de licenciamento ao usar software de terceiros em seu servidor.
 
+</details>
+
 ---
-
-
-### 📖 Código de Conduta
-
-Explique como os contribuidores devem se comportar, possivelmente linkando para o código de conduta do projeto.
-
-
 ## ✍️ Autores
 
 - [@redplugx](https://github.com/redplugx) - Ideia Inicial/Trabalho Principal
-
-
