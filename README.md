@@ -32,8 +32,6 @@ Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilit
 
 A inspiração para este projeto nasceu da própria comunidade de mapeadores do SA-MP, que frequentemente enfrentava desafios ao tentar localizar recursos dispersos e informações fragmentadas. Ao consolidar esses recursos em uma plataforma intuitiva e de fácil acesso, nosso objetivo é não apenas melhorar a eficiência do processo de criação de mapas, mas também incentivar mais pessoas a participarem dessa atividade criativa, enriquecendo assim a comunidade SA-MP com novos e excitantes mapas.
 
-<img src="https://img2.gratispng.com/20180627/bq/kisspng-grand-theft-auto-san-andreas-san-andreas-multipla-samp-5b331f9cca60b3.127888261530077084829.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
 ---
 ## 🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor
 
