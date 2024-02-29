@@ -31,7 +31,7 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 
 - [Sobre](#sobre)
 - [Começando](#começando)
-  - [Pré-requisitos](#pré-requisitos)
+  - [Pré-requisitos](#pré-requisitos-para-rodar-o-sa-mp-san-andreas-multiplayer-e-o-texture-studio-no-seu-servidor)
 - [Código de Conduta](#código-de-conduta)
 - [Autores](#%EF%B8%8F-autores)
 
