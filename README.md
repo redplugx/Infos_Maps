@@ -4,6 +4,14 @@
 ![Status do Projeto](https://img.shields.io/badge/status-active-success.svg)
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## 📝 Índice
+
+- [Sobre](#-informações-do-projeto)
+- [Começando](#começando)
+  - [Pré-requisitos](#-informações-do-projeto)
+- [Código de Conduta](#-código-de-conduta)
+- [Autores](#%EF%B8%8F-autores)
+---
 ## 🌎 Informações do Projeto.
 
 Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilitar e otimizar o processo de criação de mapas dentro do universo do San Andreas Multiplayer (SA-MP). Ao reconhecer a complexidade e o detalhamento envolvidos na construção de mapas personalizados, percebemos a necessidade de uma solução centralizada que pudesse servir tanto a novatos quanto a veteranos na comunidade de mapeamento.
@@ -34,12 +42,6 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
   - [Pré-requisitos](#-informações-do-projeto)
 - [Código de Conduta](#-código-de-conduta)
 - [Autores](#%EF%B8%8F-autores)
-
-
-
-
-
-
 
 ---
 ## 🚀 Pré-requisitos para rodar o SA-MP (San Andreas Multiplayer) e o Texture Studio no seu servidor
