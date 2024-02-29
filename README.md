@@ -32,9 +32,6 @@ Este projeto foi desenvolvido como uma ferramenta abrangente destinada a facilit
 
 A inspiração para este projeto nasceu da própria comunidade de mapeadores do SA-MP, que frequentemente enfrentava desafios ao tentar localizar recursos dispersos e informações fragmentadas. Ao consolidar esses recursos em uma plataforma intuitiva e de fácil acesso, nosso objetivo é não apenas melhorar a eficiência do processo de criação de mapas, mas também incentivar mais pessoas a participarem dessa atividade criativa, enriquecendo assim a comunidade SA-MP com novos e excitantes mapas.
 
-
-![Imagem/Screenshot do Projeto](https://static9.tgcnt.ru/posts/_0/ee/ee108ea0ba0e8e02a03899a621caf640.jpg)
-
 <img src="https://static9.tgcnt.ru/posts/_0/ee/ee108ea0ba0e8e02a03899a621caf640.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 ---
