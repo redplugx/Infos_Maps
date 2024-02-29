@@ -33,7 +33,7 @@ A inspiração para este projeto nasceu da própria comunidade de mapeadores do 
 - [Começando](#começando)
   - [Pré-requisitos](#pré-requisitos)
 - [Código de Conduta](#código-de-conduta)
-- [Autores](#autores)
+- [Autores](#%EF%B8%8F-autores)
 
 
 
