@@ -104,14 +104,20 @@ Lembre-se de seguir todas as orientações legais e de licenciamento ao usar sof
 <details>
 <summary><b>IDS</b></summary>
 
-___
+
+___ 
+
+```Ids de objectos e textura para as mapeações ```
 
 <details><summary><b>OBJECTS</b></summary><summary>
+
 
 #### Objetos
 </details>
 
 
+<details><summary><b>TEXTURAS</b></summary><summary>
 
 
-
+#### Texturas
+</details>
