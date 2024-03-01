@@ -111,34 +111,7 @@ ___
 #### Objetos
 </details>
 
-<details><summary><b>root</b></summary><summary>
 
-<details><summary><b>root</b></summary><summary>
-oi
-</details>
-
-<details><summary><b>root</b></summary><summary>
-oi
-</details>
-
-<details><summary><b>root</b></summary><summary>
-oi
-</details>
-
-<details><summary><b>root</b></summary><summary>
-oi
-</details>
-
-
-</details>
-</details>
-
-
-<details>
-<summary><b>TEXTO 3</b></summary>
-
-###### texto
-</details>
 
 
 
